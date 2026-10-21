@@ -2,9 +2,9 @@
 <h3 align="center">Software Engineer • Information & AI Engineering Student @ PolyU</h3>
 
 <p align="center">
-  <a href="https://wavesam.io">Portfolio</a> •
-  <a href="https://linkedin.com/in/wavesam">LinkedIn</a> •
-  <a href="mailto:samuel@wavesam.io">Email</a>
+  <a href="https://samwave.io">Portfolio</a> •
+  <a href="https://linkedin.com/in/samwave">LinkedIn</a> •
+  <a href="mailto:sam@samwave.io">Email</a>
 </p>
 
 ---
