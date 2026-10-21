@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Samuel Lee 🌊</h1>
+<h1 align="center">Hey, I'm Samuel Lee</h1>
 <h3 align="center">Software Engineer • Information & AI Engineering Student @ PolyU</h3>
 
 <p align="center">
