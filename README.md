@@ -11,9 +11,9 @@
 
 ### 🌊 Projects
 
-#### [Personal Portfolio](https://wavesam.io)
+#### [Personal Portfolio](https://samwave.io)
 Modern portfolio built with **React, TypeScript, and Tailwind CSS**. Features responsive design and clean UI.
-`React` `TypeScript` `Tailwind CSS` `Vite`
+`React` `TypeScript` `Tailwind CSS` `Next.js`
 
 #### [Handwriting Classification CNN](https://github.com/wavesam/handwriting-cnn)
 Convolutional Neural Network that classifies handwritten images using TensorFlow/Keras and OpenCV.
@@ -36,9 +36,9 @@ Terminal-based AI chat client built with Node.js, featuring HTTP requests and AP
 
 ### ⚓︎ Let's Connect
 
-- **Portfolio**: [wavesam.io](https://wavesam.io)
-- **Email**: samuel@wavesam.io
-- **LinkedIn**: [wavesam](https://linkedin.com/in/wavesam)
+- **Portfolio**: [samwave.io](https://samwave.io)
+- **Email**: sam@samwave.io
+- **LinkedIn**: [samwave](https://linkedin.com/in/samwave)
 
 ---
 
