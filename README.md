@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Samuel Lee</h1>
+<h1 align="center">🌊 Samuel Lee</h1>
 <h3 align="center">Software Engineer • Information & AI Engineering Student @ PolyU</h3>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 ---
 
-### 🌊 Projects
+### 🚤 Projects
 
 #### [Personal Portfolio](https://samwave.io)
 Modern portfolio built with **React, TypeScript, and Tailwind CSS**. Features responsive design and clean UI.
@@ -23,7 +23,7 @@ Convolutional Neural Network that classifies handwritten images using TensorFlow
 Terminal-based AI chat client built with Node.js, featuring HTTP requests and API integration.
 `Node.js` `JavaScript` `REST APIs` `HTTP Requests`
 
-### 🚤 Tech Stack
+### 🛟 Tech Stack
 
 **AI/ML**
 `Python` `TensorFlow` `OpenCV` `scikit-learn`
